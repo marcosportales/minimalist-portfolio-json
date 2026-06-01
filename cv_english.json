@@ -2,10 +2,10 @@
   "basics": {
     "name": "Marcos Portales",
     "label": "Full-Stack Developer · AI, modern web & IIoT",
-    "image": "/me.jpg",
+    "image": "/me.webp",
     "email": "marcosportales2002@gmail.com",
     "url": "https://portfolio.vercel.app",
-    "summary": "Full-Stack developer with a problem-solving mindset, fast learning curve, and a passion for fluid, accessible, and maintainable interfaces. Experienced across React, Next.js, Vue, Node.js, NestJS, and Spring Boot; API integration, performance optimization, and SQL and NoSQL databases. I also work with AI tooling, IIoT platforms, and communication protocols for connected systems. Based in Moriles, Córdoba, Spain.",
+    "summary": "Full-Stack developer with a problem-solving mindset, fast learning curve, and a passion for fluid, accessible, and maintainable interfaces. Experienced across React, Next.js, Vue, Astro, Node.js, NestJS, and Spring Boot; API integration, performance optimization, and SQL and NoSQL databases. I also work with AI tooling, IIoT platforms, and communication protocols for connected systems. Based in Moriles, Córdoba, Spain.",
     "location": {
       "address": "",
       "postalCode": "14910",
@@ -27,7 +27,7 @@
       {
         "network": "X",
         "username": "marcosportales",
-        "url": "https://x.com/marcosportales"
+        "url": "https://x.com/msportales"
       }
     ]
   },
@@ -137,6 +137,11 @@
       "name": "Vue",
       "level": "Advanced",
       "keywords": ["Web development", "Frontend"]
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced",
+      "keywords": ["Web development", "Frontend", "SSR", "ISR"]
     },
     {
       "name": "Node.js",

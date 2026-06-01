@@ -2,10 +2,10 @@
   "basics": {
     "name": "Marcos Portales",
     "label": "Desarrollador Full-Stack · IA, web moderna e IIoT",
-    "image": "/me.jpg",
+    "image": "/me.webp",
     "email": "marcosportales2002@gmail.com",
     "url": "https://portfolio.vercel.app",
-    "summary": "Desarrollador Full-Stack con mentalidad resolutiva, curva de aprendizaje rápida y pasión por interfaces fluidas, accesibles y mantenibles. Experiencia en React, Next.js, Vue, Node.js, NestJS y Spring Boot; integración de APIs, optimización de rendimiento y bases SQL y NoSQL. También trabajo con herramientas de IA, plataformas IIoT y protocolos para sistemas conectados. Vivo en Moriles, Córdoba, España.",
+    "summary": "Desarrollador Full-Stack con mentalidad resolutiva, curva de aprendizaje rápida y pasión por interfaces fluidas, accesibles y mantenibles. Experiencia en React, Next.js, Vue, Astro,Node.js, NestJS y Spring Boot; integración de APIs, optimización de rendimiento y bases SQL y NoSQL. También trabajo con herramientas de IA, plataformas IIoT y protocolos para sistemas conectados. Vivo en Moriles, Córdoba, España.",
     "location": {
       "address": "",
       "postalCode": "14910",
@@ -27,7 +27,7 @@
       {
         "network": "X",
         "username": "marcosportales",
-        "url": "https://x.com/marcosportales"
+        "url": "https://x.com/msportales"
       }
     ]
   },
@@ -137,6 +137,11 @@
       "name": "Vue",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "SSR", "ISR"]
     },
     {
       "name": "Node.js",
