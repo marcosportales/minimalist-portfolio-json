@@ -1,275 +1,244 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Marcos Portales",
+    "label": "Desarrollador Full-Stack · IA, web moderna e IIoT",
+    "image": "/me.jpg",
+    "email": "marcosportales2002@gmail.com",
+    "url": "https://portfolio.vercel.app",
+    "summary": "Desarrollador Full-Stack con mentalidad resolutiva, curva de aprendizaje rápida y pasión por interfaces fluidas, accesibles y mantenibles. Experiencia en React, Next.js, Vue, Node.js, NestJS y Spring Boot; integración de APIs, optimización de rendimiento y bases SQL y NoSQL. También trabajo con herramientas de IA, plataformas IIoT y protocolos para sistemas conectados. Vivo en Moriles, Córdoba, España.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "14910",
+      "city": "Moriles",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Córdoba"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "marcosportales2002",
+        "url": "https://www.linkedin.com/in/marcosportales2002"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "marcosportales",
+        "url": "https://github.com/marcosportales"
+      },
+      {
+        "network": "X",
+        "username": "marcosportales",
+        "url": "https://x.com/marcosportales"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "name": "Equilateral Cloud S.L",
+      "position": "Desarrollador Full-Stack",
+      "startDate": "2025-09-01",
+      "endDate": "2025-10-01",
+      "summary": "Desarrollo de aplicaciones web modernas integrando modelos de IA para automatizar flujos internos y mejorar la UX. Renderizado híbrido en Next.js (SSR/ISR), Drizzle ORM con PostgreSQL y APIs escalables.",
       "highlights": [
-        "Started the company"
+        "Automatizaciones con IA que redujeron trabajo manual",
+        "Mejoras de rendimiento en módulos clave"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "ANF Autoridad de Certificación",
+      "position": "Desarrollador Full-Stack",
+      "startDate": "2024-11-01",
+      "endDate": "2025-03-01",
+      "summary": "Mantenimiento y evolución de sistemas críticos de firma electrónica y gestión documental usados por miles de usuarios en todo el país, con foco en seguridad y rendimiento.",
       "highlights": [
-        "Started the company"
+        "Nuevas funcionalidades en módulos de alto impacto",
+        "Refactorización de componentes Vue legacy para reducir deuda técnica"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "EFE Valparaíso",
+      "position": "Desarrollador Full-Stack",
+      "startDate": "2023-07-01",
+      "endDate": "2024-05-01",
+      "summary": "Simulador de eventos de red de metro con visualizaciones interactivas en D3.js y dashboards dinámicos para interpretar datos complejos en tiempo real.",
       "highlights": [
-        "Started the company"
+        "Componentes reutilizables integrados con APIs externas",
+        "Dashboards para análisis de datos en tiempo real"
+      ]
+    },
+    {
+      "name": "UCLV — División de Informática y Comunicaciones",
+      "position": "Desarrollador Full-Stack",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Sistemas internos de gestión con Java, Spring Boot y Vaadin; modelado y optimización de PostgreSQL bajo GitLab CI/CD.",
+      "highlights": [
+        "Mejoras en la arquitectura front-end que redujeron bugs recurrentes",
+        "Pipelines CI/CD con GitLab"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Central \"Marta Abreu\" de Las Villas (UCLV)",
+      "area": "Ciencias Informáticas",
+      "studyType": "Licenciatura",
+      "startDate": "2022-01-01",
+      "endDate": "2025-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Competición Nacional ICPC",
+      "date": "2022-01-01",
+      "awarder": "ICPC",
+      "summary": "2.º y 3.er puesto en programación competitiva universitaria."
+    },
+    {
+      "title": "Concurso Nacional de Informática (CNC)",
+      "date": "2020-01-01",
+      "awarder": "CNC",
+      "summary": "Medalla de bronce (2018, 2019 y 2020)."
+    },
+    {
+      "title": "Copa Abel Santamaría",
+      "date": "2020-01-01",
+      "awarder": "Programación competitiva provincial",
+      "summary": "Reconocimiento en programación competitiva a nivel provincial."
+    },
+    {
+      "title": "Talento joven en programación competitiva",
+      "date": "2018-01-01",
+      "awarder": "Escuela Vocacional de Ciencias Exactas, Santa Clara",
+      "summary": "Destacado en programación competitiva durante la enseñanza preuniversitaria."
+    }
+  ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
+      "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "UI"]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "SSR", "ISR"]
     },
     {
-      "name": "React",
+      "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript"]
+    },
+    {
+      "name": "NestJS",
+      "level": "Avanzado",
+      "keywords": ["Backend", "APIs", "TypeScript"]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": ["Backend", "Java", "APIs"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "SQL", "Backend"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": ["DevOps", "Contenedores", "Despliegue"]
+    },
+    {
+      "name": "ThingsBoard",
+      "level": "Avanzado",
+      "keywords": ["IIoT", "IoT", "Monitorización"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración"]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "B1"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Programación competitiva",
+      "keywords": ["Algoritmos", "ICPC", "Estructuras de datos"]
+    },
+    {
+      "name": "IA e IoT",
+      "keywords": ["Asistentes de voz", "IIoT", "Automatización"]
+    }
+  ],
+  "references": [],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "Plataforma IIoT Planta LC3 Eco-Cemento",
+      "isActive": false,
+      "description": "Supervisión IIoT para planta de eco-cemento: variables de proceso desde PLC a ThingsBoard, APIs REST y WebSocket, PostgreSQL y aplicación React de monitorización y control.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Proyecto de tesis nacional CITMA · UCLV",
+        "Integración PLC, ThingsBoard y PostgreSQL"
       ],
-      "url": "https://mars.codes"
+      "url": "",
+      "keywords": ["React", "ThingsBoard", "PostgreSQL", "IIoT", "WebSocket"]
     },
     {
-      "name": "AdventJS",
+      "name": "n8n Clone",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "MVP de automatización visual: editor drag-and-drop, parámetros de nodos, ejecuciones manuales, webhooks e historial con Next.js y React Flow.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Editor visual de flujos",
+        "Prisma y ejecución de workflows"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/marcosportales/n8n-clone",
+      "keywords": ["Next.js", "TypeScript", "Prisma", "React Flow"]
     },
     {
-      "name": "Codember",
+      "name": "Slack Clone",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Mensajería en tiempo real con canales, workspaces y front end en Next.js respaldado por Convex.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Tiempo real",
+        "Workspaces y canales"
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/marcosportales/slack-clone",
+      "keywords": ["Next.js", "TypeScript", "Convex"]
     },
     {
-      "name": "codi.link",
+      "name": "J.A.R.V.I.S",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Asistente de voz modular con audio nativo Gemini Live, herramientas plug-in y Socket.IO: API Python, UI React y shell Electron.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Gemini Live",
+        "Electron y arquitectura modular"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/marcosportales/my-assistant",
+      "keywords": ["Python", "Gemini", "Electron", "Socket.IO"]
     }
   ]
 }
