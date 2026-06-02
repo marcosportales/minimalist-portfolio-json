@@ -81,7 +81,7 @@
   "education": [
     {
       "institution": "Universidad Central \"Marta Abreu\" de Las Villas (UCLV)",
-      "area": "Ciencias Informáticas",
+      "area": "Licenciatura en Ciencias de la Computación",
       "studyType": "Licenciatura",
       "startDate": "2022-01-01",
       "endDate": "2025-01-01",
@@ -144,7 +144,7 @@
       "keywords": ["Desarrollo Web", "Frontend", "SSR", "ISR"]
     },
     {
-      "name": "Node.js",
+      "name": "Node",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Backend", "JavaScript"]
     },
@@ -174,9 +174,19 @@
       "keywords": ["IIoT", "IoT", "Monitorización"]
     },
     {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": ["Backend", "Automatización", "IA"]
+    },
+    {
       "name": "Git",
       "level": "Avanzado",
       "keywords": ["Control de Versiones", "Colaboración"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Open Source"]
     }
   ],
   "languages": [

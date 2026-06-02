@@ -81,7 +81,7 @@
   "education": [
     {
       "institution": "Central University \"Marta Abreu\" of Las Villas (UCLV)",
-      "area": "Computer Science",
+      "area": "Bachelor Degree of Science in Computer Science",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": "2025-01-01",
@@ -174,9 +174,19 @@
       "keywords": ["IIoT", "IoT", "Monitoring"]
     },
     {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": ["Backend", "Automation", "AI"]
+    },
+    {
       "name": "Git",
       "level": "Advanced",
       "keywords": ["Version control", "Collaboration"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": ["Version control", "Collaboration", "Open source"]
     }
   ],
   "languages": [
