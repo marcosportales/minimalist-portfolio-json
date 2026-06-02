@@ -249,7 +249,7 @@
       "isActive": true,
       "description": "Modular voice assistant with Gemini Live native audio, plug-in tools, and Socket.IO — Python API, React UI, and Electron desktop shell.",
       "highlights": [
-        "Gemini Live",
+        "Python API and tool orchestration",
         "Electron and modular architecture"
       ],
       "url": "https://github.com/marcosportales/my-assistant",
