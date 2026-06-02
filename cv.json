@@ -213,14 +213,25 @@
   "projects": [
     {
       "name": "Plataforma IIoT Planta LC3 Eco-Cemento",
-      "isActive": false,
+      "isActive": true,
       "description": "Supervisión IIoT para planta de eco-cemento: variables de proceso desde PLC a ThingsBoard, APIs REST y WebSocket, PostgreSQL y aplicación React de monitorización y control.",
       "highlights": [
         "Proyecto de tesis nacional CITMA · UCLV",
         "Integración PLC, ThingsBoard y PostgreSQL"
       ],
-      "url": "",
+      "url": "https://github.com/marcosportales/nest-tb-api",
       "keywords": ["React", "ThingsBoard", "PostgreSQL", "IIoT", "WebSocket"]
+    },
+    {
+      "name": "SaaS de facturación",
+      "isActive": true,
+      "description": "Plataforma SaaS de facturación multi-tenant: API REST en FastAPI (clientes, productos, facturas, pagos, webhooks y PDF) y panel administrativo en Angular con RBAC.",
+      "highlights": [
+        "Auth JWT, facturas, pagos, webhooks y PDF",
+        "Dashboard Angular con RBAC y tests E2E"
+      ],
+      "url": "https://github.com/marcosportales/saas-billing-app",
+      "keywords": ["FastAPI", "Angular", "PostgreSQL", "Celery", "JWT"]
     },
     {
       "name": "n8n Clone",
