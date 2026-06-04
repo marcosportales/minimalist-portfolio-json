@@ -37,8 +37,9 @@
       "position": "Desarrollador Full-Stack",
       "startDate": "2025-09-01",
       "endDate": "2025-10-01",
-      "summary": "Desarrollo de aplicaciones web modernas integrando modelos de IA para automatizar flujos internos y mejorar la UX. Renderizado híbrido en Next.js (SSR/ISR), Drizzle ORM con PostgreSQL y APIs escalables.",
+      "summary": "Desarrollo de aplicaciones web modernas integrando modelos de IA (OCR, extracción de datos de documentos y automatización de flujos) para reducir trabajo manual y mejorar la UX. Renderizado híbrido en Next.js (SSR/ISR), Drizzle ORM con PostgreSQL y APIs escalables.",
       "highlights": [
+        "IA aplicada a OCR y procesamiento de documentos en flujos internos",
         "Automatizaciones con IA que redujeron trabajo manual",
         "Mejoras de rendimiento en módulos clave"
       ]
