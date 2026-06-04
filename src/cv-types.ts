@@ -13,19 +13,19 @@ export interface CV {
   projects: Array<Projects>
 }
 
-interface Basics {
+export interface Basics {
   name: string
   label: string
   image: string
   email: string
-  phone: string
+  phone?: string
   url: string
   summary: string
   location: Location
   profiles: Array<Profiles>
 }
 
-interface Location {
+export interface Location {
   address: string
   postalCode: string
   city: string
@@ -33,25 +33,25 @@ interface Location {
   region: string
 }
 
-interface Profiles {
+export interface Profiles {
   network: string
   username: string
   url: string
 }
 
-interface Work {
+export interface Work {
   name: string
   position: string
-  url: string
+  url?: string
   startDate: DateStr
   endDate: DateStr | null
   summary: string
   highlights: Highlight
 }
 
-type DateStr = `${string}-${string}-${string}`
+export type DateStr = `${string}-${string}-${string}`
 
-interface Volunteer {
+export interface Volunteer {
   organization: string
   position: string
   url: string
@@ -61,27 +61,27 @@ interface Volunteer {
   highlights: Highlight
 }
 
-interface Skills {
+export interface Skills {
   name: string
   level: string
   keywords: Array<string>
 }
 
-interface Awards {
+export interface Awards {
   title: string
   date: string
   awarder: string
   summary: string
 }
 
-interface Certificates {
-  name: string,
-  date: DateStr,
-  issuer: string,
+export interface Certificates {
+  name: string
+  date: DateStr
+  issuer: string
   url: string
 }
 
-interface Publications {
+export interface Publications {
   name: string
   publisher: string
   releaseDate: DateStr
@@ -89,9 +89,9 @@ interface Publications {
   summary: string
 }
 
-interface Education {
+export interface Education {
   institution: string
-  url: string
+  url?: string
   area: string
   studyType: string
   startDate: DateStr
@@ -100,13 +100,13 @@ interface Education {
   courses: Array<string>
 }
 
-interface Languages {
+export interface Languages {
   language: Language
   fluency: string
 }
 
-type Language =
-  "Spanish"
+export type Language =
+  | "Spanish"
   | "English"
   | "German"
   | "France"
@@ -123,23 +123,24 @@ type Language =
   | "Bengali"
   | string
 
-interface Projects {
+export interface Projects {
   name: string
   isActive: boolean
   description: string
   highlights: Highlight
   url: string
   github?: string
+  keywords?: Array<string>
 }
 
-interface Interests {
+export interface Interests {
   name: string
   keywords: Array<string>
 }
 
-interface References {
+export interface References {
   name: string
   reference: string
 }
 
-type Highlight = Array<String>
+export type Highlight = Array<string>

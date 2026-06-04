@@ -10,6 +10,8 @@ import { projects } from "@cv"
     {
       projects.map(
         ({ url, description, highlights, name, isActive, github }) => {
+          const repoUrl = github ?? url
+
           return (
             <li>
               <article>
@@ -19,10 +21,10 @@ import { projects } from "@cv"
                       {name}
                     </a>
                     {isActive && <span>•</span>}
-                    {github && (
+                    {repoUrl && (
                       <a
                         class="github-code-link"
-                        href={github}
+                        href={repoUrl}
                         target="_blank"
                         title={`Ver código fuente del proyecto ${name}`}
                       >
