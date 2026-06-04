@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Marcos Portales",
-    "label": "Full-Stack Developer · AI, modern web & IIoT",
+    "name": "Marcos Portales Ramos",
+    "label": "Full-Stack Developer",
     "image": "/me.webp",
     "email": "marcosportales2002@gmail.com",
     "url": "https://portfolio.vercel.app",
-    "summary": "Full-Stack developer with a problem-solving mindset, fast learning curve, and a passion for fluid, accessible, and maintainable interfaces. Experienced across React, Next.js, Vue, Astro, Node.js, NestJS, and Spring Boot; API integration, performance optimization, and SQL and NoSQL databases. I also work with AI tooling, IIoT platforms, and communication protocols for connected systems. Based in Moriles, Córdoba, Spain.",
+    "summary": "Full-Stack Developer based in Córdoba with proven experience building scalable, well-typed JavaScript/TypeScript applications (React, Next.js, Vue, Angular) and backend systems (Node.js, Spring Boot) with PostgreSQL. I deliver Dockerized services, CI/CD pipelines, and secure, performant APIs; I also integrate AI automations and data modeling to reduce manual work and optimize key modules. I partner closely with product, design, and QA to ship pragmatic solutions used by thousands that improve performance and reduce user-reported errors.",
     "location": {
       "address": "",
-      "postalCode": "14510",
-      "city": "Moriles",
+      "postalCode": "",
+      "city": "Córdoba",
       "countryCode": "ES",
       "region": "Córdoba"
     },
@@ -23,25 +23,33 @@
         "network": "GitHub",
         "username": "marcosportales",
         "url": "https://github.com/marcosportales"
-      },
-      {
-        "network": "X",
-        "username": "marcosportales",
-        "url": "https://x.com/msportales"
       }
     ]
   },
   "work": [
     {
+      "name": "Centro de Atención Sociosanitaria, S.A. Moriles",
+      "position": "IT Support Technician",
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "summary": "Technical support and preventive/corrective maintenance of equipment and software to ensure operational continuity.",
+      "highlights": [
+        "Resolution of basic user issues, equipment configuration, and support with systems administration tasks.",
+        "Tracking recurring issues and documenting incidents to facilitate resolution."
+      ]
+    },
+    {
       "name": "Equilateral Cloud S.L",
-      "position": "Full-Stack Developer",
+      "position": "Full-Stack Developer (Temporary Contract)",
       "startDate": "2025-09-01",
       "endDate": "2025-10-01",
-      "summary": "Built modern web apps integrating AI models (OCR, document data extraction, and workflow automation) to reduce manual work and improve UX. Next.js hybrid rendering (SSR/ISR), Drizzle ORM with PostgreSQL, and scalable APIs.",
+      "summary": "One-month temporary project focused on developing modern web applications with AI model integration to automate internal workflows and improve user experience.",
       "highlights": [
-        "AI-powered OCR and document processing in internal workflows",
-        "AI automations that reduced manual work",
-        "Performance improvements in key modules"
+        "Implementation of full-stack architectures with Next.js, including hybrid rendering (SSR/ISR) and performance optimizations in key modules.",
+        "Data modeling and management with Drizzle ORM and PostgreSQL, ensuring strict typing and stable migrations.",
+        "Creation of scalable and secure APIs for internal and external consumption.",
+        "Participation in requirements definition, technical design, and improvement proposals focused on efficiency and scalability.",
+        "Reduced manual work through AI automations and improved performance in key modules."
       ]
     },
     {
@@ -49,10 +57,12 @@
       "position": "Full-Stack Developer",
       "startDate": "2024-11-01",
       "endDate": "2025-03-01",
-      "summary": "Maintained and improved critical e-signature and document management systems used by thousands of users nationwide, with a focus on security and performance.",
+      "summary": "Responsible for the maintenance and evolution of electronic signature and document management systems critical to the organization's daily operations.",
       "highlights": [
-        "Shipped features for high-impact modules",
-        "Refactored legacy Vue components to reduce technical debt"
+        "Development of new features in internal modules used by thousands of users nationwide, prioritizing security and performance.",
+        "Refactoring of legacy Vue components to improve maintainability and reduce technical debt.",
+        "Collaboration with backend, QA, and design teams in agile environments to deliver continuous improvements.",
+        "Reduced user-reported errors and optimized load times in key modules."
       ]
     },
     {
@@ -60,140 +70,168 @@
       "position": "Full-Stack Developer",
       "startDate": "2023-07-01",
       "endDate": "2024-05-01",
-      "summary": "Metro network event simulator with interactive D3.js visualizations and dynamic dashboards for real-time interpretation of complex data.",
+      "summary": "Developed a metro network event simulator with interactive visualizations using D3.js.",
       "highlights": [
-        "Reusable components integrated with external APIs",
-        "Real-time data dashboards"
+        "Implemented dynamic interfaces and dashboards to interpret complex data in real time.",
+        "Designed reusable components and integrated external APIs.",
+        "Participated in UI/UX improvements, workflow optimization, and continuous integration."
       ]
     },
     {
-      "name": "UCLV — IT & Communications Division",
+      "name": "Division of Computerization and Communications, Universidad Central \"Marta Abreu\" de Las Villas (UCLV)",
       "position": "Full-Stack Developer",
       "startDate": "2023-01-01",
       "endDate": "2023-12-01",
-      "summary": "Internal management systems with Java, Spring Boot, and Vaadin; PostgreSQL modeling and optimization under GitLab CI/CD.",
+      "summary": "Developed internal management systems for the university using Java and Spring Boot.",
       "highlights": [
-        "Front-end architecture improvements that reduced recurring bugs",
-        "GitLab CI/CD pipelines"
+        "Implemented views and interactive components with Vaadin.",
+        "Designed and optimized data models in PostgreSQL.",
+        "Worked in CI/CD environments with GitLab.",
+        "Led front-end architecture improvements and proposed refactors that reduced recurring bugs."
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Central University \"Marta Abreu\" of Las Villas (UCLV)",
-      "area": "Bachelor's Degree in Computer Science",
-      "studyType": "Bachelor",
+      "institution": "Universidad Central \"Marta Abreu\" de Las Villas (UCLV)",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
       "startDate": "2022-01-01",
       "endDate": "2025-01-01",
       "score": "",
-      "courses": []
+      "courses": [
+        "ICPC national competition participant: 2nd and 3rd place (2022)",
+        "Bronze Medal, National Informatics Contest (2018, 2019, 2020)",
+        "Provincial Programming Contest Copa Abel Santamaría",
+        "Young Talent in Competitive Programming"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "ICPC National Competition",
+      "title": "Participant in the National Collegiate Programming Contest (ICPC)",
       "date": "2022-01-01",
-      "awarder": "ICPC",
-      "summary": "2nd and 3rd place in collegiate competitive programming."
+      "awarder": "ICPC / UCLV",
+      "summary": "National-level competition; placed 2nd and 3rd."
     },
     {
-      "title": "National Informatics Contest (CNC)",
+      "title": "Provincial Competitive Programming Contest — Abel Santamaría Cup",
       "date": "2020-01-01",
-      "awarder": "CNC",
-      "summary": "Bronze medal (2018, 2019, and 2020)."
+      "awarder": "IPVCE \"Ernesto Guevara\"",
+      "summary": "Provincial-level programming contest."
     },
     {
-      "title": "Copa Abel Santamaría",
+      "title": "Bronze Medal — National Informatics Contest",
       "date": "2020-01-01",
-      "awarder": "Provincial competitive programming",
-      "summary": "Recognition in provincial competitive programming."
+      "awarder": "National Informatics Contest",
+      "summary": "Bronze medal in 2018, 2019, and 2020."
     },
     {
-      "title": "Young talent in competitive programming",
+      "title": "Young Talent in Competitive Programming",
       "date": "2018-01-01",
-      "awarder": "Exact Sciences Vocational School, Santa Clara",
-      "summary": "Outstanding performance in competitive programming during high school."
+      "awarder": "Competitive Programming",
+      "summary": "Recognition as a young talent in competitive programming."
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [
     {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "UI"]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "SSR", "ISR"]
+      "name": "HTML",
+      "level": "",
+      "keywords": []
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "Backend"]
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Vue",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend"]
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Astro",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "SSR", "ISR"]
-    },
-    {
-      "name": "Node.js",
-      "level": "Advanced",
-      "keywords": ["Web development", "Backend", "JavaScript"]
-    },
-    {
-      "name": "NestJS",
-      "level": "Advanced",
-      "keywords": ["Backend", "APIs", "TypeScript"]
-    },
-    {
-      "name": "Spring Boot",
-      "level": "Advanced",
-      "keywords": ["Backend", "Java", "APIs"]
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Advanced",
-      "keywords": ["Databases", "SQL", "Backend"]
-    },
-    {
-      "name": "Docker",
-      "level": "Intermediate",
-      "keywords": ["DevOps", "Containers", "Deployment"]
-    },
-    {
-      "name": "ThingsBoard",
-      "level": "Advanced",
-      "keywords": ["IIoT", "IoT", "Monitoring"]
-    },
-    {
-      "name": "Python",
-      "level": "Advanced",
-      "keywords": ["Backend", "Automation", "AI"]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Version control", "Collaboration"]
+      "name": "Prisma/TypeORM",
+      "level": "",
+      "keywords": []
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
-      "keywords": ["Version control", "Collaboration", "Open source"]
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express/NestJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
@@ -203,11 +241,19 @@
   "interests": [
     {
       "name": "Competitive programming",
-      "keywords": ["Algorithms", "ICPC", "Data structures"]
+      "keywords": [
+        "Algorithms",
+        "ICPC",
+        "Data structures"
+      ]
     },
     {
       "name": "AI & IoT",
-      "keywords": ["Voice assistants", "IIoT", "Automation"]
+      "keywords": [
+        "Voice assistants",
+        "IIoT",
+        "Automation"
+      ]
     }
   ],
   "references": [],
@@ -221,7 +267,13 @@
         "PLC, ThingsBoard, and PostgreSQL integration"
       ],
       "url": "https://github.com/marcosportales/nest-tb-api",
-      "keywords": ["React", "ThingsBoard", "PostgreSQL", "IIoT", "WebSocket"]
+      "keywords": [
+        "React",
+        "ThingsBoard",
+        "PostgreSQL",
+        "IIoT",
+        "WebSocket"
+      ]
     },
     {
       "name": "SaaS billing platform",
@@ -232,7 +284,13 @@
         "Angular admin panel with RBAC and E2E tests"
       ],
       "url": "https://github.com/marcosportales/saas-billing-app",
-      "keywords": ["FastAPI", "Angular", "PostgreSQL", "Celery", "JWT"]
+      "keywords": [
+        "FastAPI",
+        "Angular",
+        "PostgreSQL",
+        "Celery",
+        "JWT"
+      ]
     },
     {
       "name": "n8n Clone",
@@ -243,7 +301,12 @@
         "Prisma and workflow execution"
       ],
       "url": "https://github.com/marcosportales/n8n-clone",
-      "keywords": ["Next.js", "TypeScript", "Prisma", "React Flow"]
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "Prisma",
+        "React Flow"
+      ]
     },
     {
       "name": "Slack Clone",
@@ -254,7 +317,11 @@
         "Workspaces and channels"
       ],
       "url": "https://github.com/marcosportales/slack-clone",
-      "keywords": ["Next.js", "TypeScript", "Convex"]
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "Convex"
+      ]
     },
     {
       "name": "J.A.R.V.I.S",
@@ -265,7 +332,12 @@
         "Electron and modular architecture"
       ],
       "url": "https://github.com/marcosportales/my-assistant",
-      "keywords": ["Python", "Gemini", "Electron", "Socket.IO"]
+      "keywords": [
+        "Python",
+        "Gemini",
+        "Electron",
+        "Socket.IO"
+      ]
     }
   ]
 }
