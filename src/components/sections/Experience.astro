@@ -8,7 +8,7 @@ import { work } from "@cv"
   <ul>
     {
       work.map(
-        ({ name, startDate, endDate, position, summary, url }) => {
+        ({ name, startDate, endDate, position, summary, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
             endDate != null ? new Date(endDate).getFullYear() : "Actual"
@@ -47,6 +47,15 @@ import { work } from "@cv"
 
                 <footer>
                   <p>{summary}</p>
+                  {
+                    highlights.length > 0 && (
+                      <div class="highlights">
+                        {highlights.map((highlight) => (
+                          <span>{highlight}</span>
+                        ))}
+                      </div>
+                    )
+                  }
                 </footer>
               </article>
             </li>
@@ -123,6 +132,22 @@ import { work } from "@cv"
 
   [data-title] {
     position: relative;
+  }
+
+  footer .highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 8px;
+  }
+
+  footer .highlights span {
+    border-radius: 6px;
+    background: #eee;
+    color: #444;
+    font-size: 0.6rem;
+    font-weight: 500;
+    padding: 0.2rem 0.6rem;
   }
 
   @media (width <= 700px) {
